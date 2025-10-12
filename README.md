@@ -22,10 +22,10 @@ The dashboard includes:
 ---
 
 ## Technologies Used
-- **Python** — Data extraction and cleaning via Ticketmaster API  
-- **Pandas** — Data manipulation and transformation  
-- **Power BI** — Interactive data visualization and analysis  
-- **CSV** — Data export for dashboard integration  
+- **Python** - Data extraction and cleaning via Ticketmaster API  
+- **Pandas** - Data manipulation and transformation  
+- **Power BI** - Interactive data visualization and analysis  
+- **CSV** - Data export for dashboard integration  
 
 ---
 
